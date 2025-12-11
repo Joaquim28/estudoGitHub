@@ -1,1 +1,0 @@
-Algumas anotações estarão aqui para melhorar o desempenho do sistema e tentar entender a finalidade do projeto. Se você chegou até aqui deixa uma linha de código que nos ajudará a elaborar com os nossos projetos.
